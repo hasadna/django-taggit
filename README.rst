@@ -28,7 +28,9 @@ Then you can use the API like so::
 
 Tags will show up for you automatically in forms and the admin.
 
-``django-taggit`` requires Django 1.3 or greater.
+``django-taggit`` requires Django 1.3 or greater.  For unicode slugs, install
+`unicode-slugify<https://github.com/mozilla/unicode-slugify>`_ and taggit
+will use its slugify function.
 
 For more info checkout out the documentation.  And for questions about usage or
 development you can contact the
