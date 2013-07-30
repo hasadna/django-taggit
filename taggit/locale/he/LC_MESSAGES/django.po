@@ -18,7 +18,7 @@ msgstr ""
 
 #: forms.py:20
 msgid "Please provide a comma-separated list of tags."
-msgstr "נא לספק רשימה של תגים מופרדת עם פסיקים."
+msgstr "נא לספק רשימה של תגיות מופרדות בפסיקים."
 
 #: managers.py:41
 #: managers.py:113
@@ -28,7 +28,7 @@ msgstr "תגיות"
 
 #: managers.py:114
 msgid "A comma-separated list of tags."
-msgstr "רשימה של תגים מופרדת עם פסיקים."
+msgstr "רשימה של תגיות מופרדות בפסיקים או ברווחים.  השתמשו במרכאות כדי ליצור תגית עם שתי מילים."
 
 #: models.py:10
 msgid "Name"
